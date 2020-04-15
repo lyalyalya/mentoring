@@ -11,7 +11,7 @@ public class Demo {
     private static String result = hello + world;
 
     @SneakyThrows
-    public static void concatWords() {
+    private static void concatWords() {
         while (true) {
             hello = result + hello;
             world = hello + world;
