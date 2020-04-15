@@ -1,0 +1,10 @@
+[main] INFO  task4.App  - Starting task 4: loading animal classes...
+[main] INFO  task4.AnimalCustomClassLoader  - loading class 'task4.impl.Dog'
+[main] INFO  task4.impl.Dog  - Dog is playing
+[main] INFO  task4.impl.Dog  - Gav!
+[main] INFO  task4.AnimalCustomClassLoader  - loading class 'task4.impl.Cat'
+[main] INFO  task4.impl.Cat  - Cat is playing
+[main] INFO  task4.impl.Cat  - Mew!
+[main] INFO  task4.AnimalCustomClassLoader  - Custom classloader loaded: 
+[main] INFO  task4.AnimalCustomClassLoader  - task4.impl.Dog
+[main] INFO  task4.AnimalCustomClassLoader  - task4.impl.Cat
